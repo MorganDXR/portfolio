@@ -1,0 +1,7 @@
+.Image1 {
+    width: 2000px;
+}
+.imageslide1 {
+    display: flex;
+    justify-content: center;
+}
