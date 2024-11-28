@@ -1,7 +1,10 @@
-.Image1 {
-    width: 2000px;
-}
 .imageslide1 {
-    display: flex;
-    justify-content: center;
+    background-image: url("img/CREATE_FOR_LIVE_sans_fond.png");
+    height: 100vh;
+}
+.header {
+    font-family: Poppins;
+}
+.Logo1 {
+    width: 65px
 }
