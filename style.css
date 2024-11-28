@@ -11,3 +11,13 @@
 .Logo1 {
     width: 65px
 }
+.image_footer {
+    background-image: url("img/Rectangle 17.jpg");
+    height: 150vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Logo2 {
+    width: 200px
+}
